@@ -14,7 +14,7 @@ Shri Vaishnav Vidyapeeth Vishwavidyalaya (SVVV) - Indore
 - Web Developement
 - DSA Python/C++, Problem Solving
 
-### Projects
+### 
 
 - [Real Time Face-Mask Detection](https://github.com/yashitanamdeo/Realtime-Face-Mask-Detection)
 - [Face Landmark Detection](https://github.com/yashitanamdeo/face-landmark-detection) 
